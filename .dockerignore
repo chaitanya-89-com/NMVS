@@ -1,0 +1,12 @@
+.git
+**/.git
+**/node_modules
+**/dist
+**/.venv
+**/venv
+**/__pycache__
+**/*.py[cod]
+**/.env
+**/.env.*
+**/nmvs.db
+**/*.sqlite3
